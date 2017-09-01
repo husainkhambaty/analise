@@ -1,0 +1,20 @@
+{
+  "name": "analise",
+  "version": "1.0.0",
+  "description": "Analyzes filesystem for duplicates and helps to clean up duplicates and zips up large text files and old files",
+  "main": "analise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Husain Khambaty",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^4.0.7",
+    "fs": "0.0.1-security",
+    "hashes": "^0.1.4",
+    "md5": "^2.2.1",
+    "md5-file": "^3.2.2",
+    "node-dir": "^0.1.17",
+    "path": "^0.12.7"
+  }
+}
